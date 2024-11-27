@@ -1,0 +1,71 @@
+/* Background and Font Styling */ 
+
+body { 
+    background-image: url('background.jpg');
+    background-size: cover;                
+    background-position: center;         
+} 
+
+/* Header Styling */ 
+
+h1 { 
+
+    color: #000090; 
+
+    font-size: 2em; 
+
+    text-align: center; 
+
+} 
+
+/* Link Styling */ 
+
+a { 
+
+    color: #000090; 
+
+    text-decoration: none; 
+
+} 
+
+/* Image Styling */ 
+
+img { 
+
+    border: 2px solid #ddd; 
+
+    border-radius: 8px; 
+
+    padding: 5px; 
+
+} 
+
+/* Table Styling */ 
+
+table { 
+
+    color: #000090;
+
+    border-collapse: collapse; 
+
+    width: 100%; 
+
+} 
+
+th, td { 
+
+    padding: 10px; 
+
+    border: 1px solid #000000; 
+
+} 
+
+/* Audio Player */ 
+
+audio { 
+
+    display: block; 
+
+    margin: 20px 0; 
+
+}
